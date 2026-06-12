@@ -134,13 +134,11 @@ The application allows users to enter health parameters and receive instant diab
 
 ### Home Page
 
-(Add Streamlit homepage screenshot here)
+![Home Page](screenshots/homepage.png)
 
 ### Prediction Result
 
-(Add prediction output screenshot here)
-
----
+![Prediction Result](screenshots/prediction.png)
 
 ## 🔮 Future Improvements
 
